@@ -13,8 +13,8 @@ The Random Password Generator is a simple Python project that creates secure and
 
 ## python password_generator.py
 
-5. Enter the desired password length.
-6. The program will generate and display a random password.
+1. Enter the desired password length.
+2. The program will generate and display a random password.
 
 ## Example
 
